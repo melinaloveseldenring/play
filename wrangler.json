@@ -3,7 +3,7 @@
   "main": "worker.js",
   "compatibility_date": "2026-08-12",
   "vars": {
-    "SERVER": "darli.hidencloud.com:24601"
+    "SERVER": "91.197.55.210:26024"
   },
   "durable_objects": {
     "bindings": [
